@@ -1,0 +1,1 @@
+web: gunicorn RiseUp_AI.wsgi --log-file -
