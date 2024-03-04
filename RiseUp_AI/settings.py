@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-)y5hah!(@jz$&vo(w7f^6--7z^^fshuh^zkz93#6pj&$oohaz%
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://rise-up.ai.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://riseup-ai.up.railway.app']
 
 
 # Application definition
